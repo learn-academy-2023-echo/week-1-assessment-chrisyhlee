@@ -10,9 +10,9 @@ Type your initials here to confirm you read the instructions:
 
 INSTRUCTOR EXAMPLE: What is a conditional statement?
 
-Your answer:
+Your answer: A conditional statement is code that specifies conditions that evaluate to true or false, and then executes the code in its code block if the corresponding condition evaluates to true.
 
-Researched answer:
+Researched answer: They can also be called if/else statements because it is common to use the keywords "if" and "else if/else" to define those conditions. 
 
 1. What is git? What is the difference between git and Github?
 
